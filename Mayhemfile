@@ -2,4 +2,4 @@ project: ansilove
 target: ansilove
 
 cmds:
-  - cmd: /repo/build/ansilove @@
+  - cmd: /install/bin/ansilove @@
